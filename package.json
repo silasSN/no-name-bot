@@ -1,0 +1,20 @@
+{
+  "name": "no-name-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silas Schlax",
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot-free": "^2.0.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mathjs": "^11.8.2",
+    "save": "^2.9.0",
+    "weather-js": "^2.0.0"
+  }
+}
